@@ -26,7 +26,7 @@ Git, GitLab, GitHub, Docker, Npm, Nvm
 Session Cookies, JWT, RSA-keys, Web Hooks, Web Sockets
 
 ## Programming design and patterns
-SPA, SSR, OOP, MVC model, UML design, SOLID- & GOF- patterns, RESTful APIs, CRUD, HATEOAS
+TDD, SPA, SSR, OOP, MVC model, UML design, SOLID- & GOF- patterns, RESTful APIs, CRUD, HATEOAS
 
 ## Graphical design
 Photo editing and manipulation, vector 2D-graphics, print layouts, web design
