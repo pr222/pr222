@@ -32,4 +32,4 @@ TDD, SPA, SSR, OOP, MVC model, UML design, SOLID- & GOF- patterns, RESTful APIs,
 Photo editing and manipulation, vector 2D-graphics, print layouts, web design
 
 ## Other stuff
-Agile (Scrum)
+Agile (Scrum), Notion, Prototyping
