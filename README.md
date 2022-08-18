@@ -14,13 +14,13 @@
 React, HTML5, CSS3, Responsive design, Web APIs (like: Async/Await, Custom Element, Shadow DOM, Local Storage)
 
 ## Backend tools and frameworks
-Next.js, Express, Mongoose, Linux, Bash, Nginx, Pm2, Handlebars
+Next.js, Express, Mongoose, Linux, Bash, Nginx, Pm2, Handlebars, 
 
 ## Databases
 MongoDB, SQL (MySQL)
 
 ## Tools
-Git, GitLab, GitHub, Docker, Npm, Nvm
+Git, GitLab, GitHub, Docker, Npm, Nvm, Kibana, ElasticSearch
 
 ## Technologies
 Session Cookies, JWT, RSA-keys, Web Hooks, Web Sockets
