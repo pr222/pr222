@@ -1,7 +1,7 @@
 # Hello!
 - 👋 Hi, I’m Pauliina!
 - 👀 I’m interested in healthy living, coffee and tech. 
-- 🌱 I’m currently learning IoT.
+- 🌱 I’m currently learning to use Figma.
 - 💞️ I’m looking to collaborate on anything that helps people in their lifestyle choises.
 - 📫 Reach me by dropping an [email](mailto:pauliina.raitaniemi@gmail.com).
 
