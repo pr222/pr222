@@ -14,13 +14,13 @@
 React, HTML5, CSS3, Responsive design, Web APIs (like: Async/Await, Custom Element, Shadow DOM, Local Storage)
 
 ## Backend tools and frameworks
-Next.js, Express, Mongoose, Linux, Bash, Nginx, Pm2, Handlebars, 
+Next.js, Express, Mongoose, Linux, Bash, Nginx, Pm2, Handlebars, ElasticSearch
 
 ## Databases
 MongoDB, SQL (MySQL)
 
 ## Tools
-Git, GitLab, GitHub, Docker, Npm, Nvm, Kibana, ElasticSearch
+Git, GitLab, GitHub, Notion, Docker, Npm, Nvm, Kibana
 
 ## Technologies
 Session Cookies, JWT, RSA-keys, Web Hooks, Web Sockets
@@ -29,7 +29,7 @@ Session Cookies, JWT, RSA-keys, Web Hooks, Web Sockets
 TDD, SPA, SSR, OOP, MVC model, UML design, SOLID- & GOF- patterns, RESTful APIs, CRUD, HATEOAS
 
 ## Graphical design
-Photo editing and manipulation, vector 2D-graphics, print layouts, web design
+Photo editing and manipulation, vector 2D-graphics, print layouts, web design, prototyping
 
 ## Other stuff
-Agile (Scrum), Notion, Prototyping
+ISO/IEC 27002, Agile (Scrum)
