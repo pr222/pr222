@@ -8,7 +8,7 @@
 # Skills
 ## Languages
 - Proficient: Javascript ES6, Node.js, Java
-- Dabbled in: Python, C#, Arduino, Typescript
+- Dabbled in: Python, PHP, C#, Arduino, Typescript
 
 ## Frontend tools and frameworks
 React, HTML5, CSS3, Responsive design, Web APIs (like: Async/Await, Custom Element, Shadow DOM, Local Storage)
