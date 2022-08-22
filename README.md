@@ -23,7 +23,7 @@ MongoDB, SQL (MySQL)
 Git, GitLab, GitHub, Notion, Docker, Npm, Nvm, Kibana
 
 ## Technologies
-Session Cookies, JWT, RSA-keys, Web Hooks, Web Sockets
+Proxyserver configuration, Session Cookies, JWT, RSA-keys, Web Hooks, Web Sockets
 
 ## Programming design and patterns
 TDD, SPA, SSR, OOP, MVC model, UML design, SOLID- & GOF- patterns, RESTful APIs, CRUD, HATEOAS
