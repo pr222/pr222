@@ -20,7 +20,7 @@ Next.js, Express, Mongoose, Linux, Bash, Nginx, Pm2, Handlebars, ElasticSearch
 MongoDB, SQL (MySQL)
 
 ## Tools
-Git, GitLab, GitHub, Notion, Docker, Npm, Nvm, Kibana
+Git, GitLab, GitHub, Notion, Docker, Gradle, Npm, Nvm, Kibana
 
 ## Technologies
 Proxyserver configuration, Session Cookies, JWT, RSA-keys, Web Hooks, Web Sockets
